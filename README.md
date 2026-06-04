@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aytaj
 
-<!--
-**aytajaliyeva/aytajaliyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at ELTE University in Budapest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about web development and Python programming. My goal is to gain practical experience through projects, internships, and continuous learning.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Currently Learning
+
+- React
+- Advanced JavaScript
+- Backend Fundamentals
+- Cybersecurity Basics
+
+## Goals for 2026
+
+- Build a strong developer portfolio
+- Contribute to open-source projects
+- Secure a software development internship
+- Improve problem-solving and programming skills
+
+Thanks for visiting my profile!
